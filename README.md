@@ -13,4 +13,6 @@ Professor: Fábio Henrique Monteiro Oliveira
 
 #5.7 Limpeza de Dados;
 
+#5.8 Acréscimo de Variváeis
+
 
